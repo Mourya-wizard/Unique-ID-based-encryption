@@ -18,7 +18,7 @@ The `encrypt` function takes a receiver's ID and a message as input. It then app
 - If a digit is '9', it adds a specific emoji at the end of the message.
 
 The encrypted message is then returned.
-- **Here, each of key value pairs for encryption can be modified based on the developers choice and design their own level of encryption technique based on their choice of algorithms.**
+- **Here, each of key value pairs for encryption can be modified based on the developers choice and design their own series of encryption techniques based on their choice of algorithms.**
 
 ## Decryption 🔓
 
